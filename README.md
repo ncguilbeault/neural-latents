@@ -39,3 +39,9 @@ Below is a list of models for analysis of neural latents.
     * Paper: https://arxiv.org/abs/2408.03330
     * Code: https://github.com/lindermanlab/gpslds
     * Written in Python, JAX
+
+
+# Datasets
+
+* Neural latents benchmark
+    * Site: https://neurallatents.github.io/
