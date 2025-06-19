@@ -35,6 +35,16 @@ Below is a list of models for analysis of neural latents.
     * Written in Python, PyTorch
 
 
+* AutoLFADS - Automated model-tuning LFADS
+    * Paper: https://www.biorxiv.org/content/10.1101/2021.01.13.426570v2
+    * Docs: https://snel-repo.github.io/autolfads/
+
+
+* Hierarchical LFADS
+    * Code: https://github.com/lyprince/hierarchical_lfads
+    * Very little documentation, writtin in PyTorch
+
+
 * gpSLDS - Gaussian process switching linear dynamical systems
     * Paper: https://arxiv.org/abs/2408.03330
     * Code: https://github.com/lindermanlab/gpslds
