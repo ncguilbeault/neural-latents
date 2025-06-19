@@ -51,6 +51,20 @@ Below is a list of models for analysis of neural latents.
     * Written in Python, JAX
 
 
+* PCA - Principal component analysis
+
+
+* jPCA - PCA extended
+    * Paper: https://www.nature.com/articles/nature11129
+    * Code: https://churchland.zuckermaninstitute.columbia.edu/content/code - original written in MATLAB
+    * Code: https://github.com/bantin/jPCA/blob/master/jPCA/util.py - Python port
+
+
+* dPCA - Demixed PCA
+    * Paper: https://elifesciences.org/articles/10989
+    * Code: https://github.com/machenslab/dPCA
+
+
 # Datasets
 
 * Neural latents benchmark
