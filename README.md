@@ -67,5 +67,14 @@ Below is a list of models for analysis of neural latents.
 
 # Datasets
 
-* Neural latents benchmark
+* NLB - Neural latents benchmark
+    * Paper: https://arxiv.org/abs/2109.04463
     * Site: https://neurallatents.github.io/
+    * Code: https://github.com/neurallatents/neurallatents.github.io/tree/master
+    * Code: https://github.com/neurallatents/nlb_workshop
+    * Code: https://github.com/neurallatents/nlb_tools
+
+
+* Winning approach of NLB
+    * Code: https://github.com/agencyenterprise/ae-nlb-2021?tab=readme-ov-file
+    * Neural Data Transformers
