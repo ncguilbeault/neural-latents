@@ -65,7 +65,7 @@ Below is a list of models for analysis of neural latents.
     * Code: https://github.com/machenslab/dPCA
 
 
-# Datasets
+# Other Resources
 
 * NLB - Neural latents benchmark
     * Paper: https://arxiv.org/abs/2109.04463
@@ -78,3 +78,7 @@ Below is a list of models for analysis of neural latents.
 * Winning approach of NLB
     * Code: https://github.com/agencyenterprise/ae-nlb-2021?tab=readme-ov-file
     * Neural Data Transformers
+
+
+* Latent Dynamics Workshop - useful notebooks
+    * Code: https://github.com/catniplab/latent_dynamics_workshop
